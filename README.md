@@ -18,3 +18,7 @@ Después es el turno del croupier.
 https://es.wikipedia.org/wiki/Blackjack  
 https://www.casino.org/es/blackjack/como-jugar/  
 http://www.ete.enp.unam.mx/como_jugar_Blackjack.pdf
+
+## Requisitos
+Nuestro juego se arranca con:
+$ python main.py
